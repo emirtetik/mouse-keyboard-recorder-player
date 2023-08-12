@@ -6,7 +6,7 @@ Bu proje, kaydedilmiş mouse ve klavye hareketlerini tekrarlayan bir aracı içe
 
 1. Bu projeyi klonlayın: `git clone https://github.com/emirtetik/mouse-keyboard-recorder-player.git`
 2. Gerekli bağımlılıkları yüklemek için: `pip install -r requirements.txt`
-3.Bu videodan kodun ne işe yaradıgını daha iyi anlayabilirsiniz: https://www.youtube.com/watch?v=MpmAD-Hd0OQ
+3. Bu videodan kodun ne işe yaradıgını daha iyi anlayabilirsiniz: `https://www.youtube.com/watch?v=MpmAD-Hd0OQ`
 4. ben kodları birleştirdim ve sonsuz bir döngüde kodun işlemesini sağlamaya çalıştım.
    
 ## Kullanım
