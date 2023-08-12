@@ -1,0 +1,648 @@
+[
+    {
+        "time": 0,
+        "action": "Recording Started"
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            990,
+            932
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1191,
+            1019
+        ]
+    },
+    {
+        "time": 1.51,
+        "action": 3,
+        "coordinate": [
+            1230,
+            1054
+        ]
+    },
+    {
+        "time": 0.93,
+        "action": 3,
+        "coordinate": [
+            1309,
+            959
+        ]
+    },
+    {
+        "time": 1.09,
+        "action": 0,
+        "key": "m"
+    },
+    {
+        "time": 0.14,
+        "action": 0,
+        "key": "e"
+    },
+    {
+        "time": 0.11,
+        "action": 0,
+        "key": "r"
+    },
+    {
+        "time": 0.01,
+        "action": 1,
+        "key": "m"
+    },
+    {
+        "time": 0.08,
+        "action": 1,
+        "key": "e"
+    },
+    {
+        "time": 0.08,
+        "action": 1,
+        "key": "r"
+    },
+    {
+        "time": 0.11,
+        "action": 0,
+        "key": "h"
+    },
+    {
+        "time": 0.08,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 0.05,
+        "action": 1,
+        "key": "h"
+    },
+    {
+        "time": 0.09,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 0.2,
+        "action": 0,
+        "key": "b"
+    },
+    {
+        "time": 0.14,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 0.02,
+        "action": 1,
+        "key": "b"
+    },
+    {
+        "time": 0.13,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 0.34,
+        "action": 0,
+        "key": "l"
+    },
+    {
+        "time": 0.08,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 0.06,
+        "action": 1,
+        "key": "l"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "r"
+    },
+    {
+        "time": 0.08,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 0.05,
+        "action": 0,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.09,
+        "action": 1,
+        "key": "r"
+    },
+    {
+        "time": 0.08,
+        "action": 1,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.27,
+        "action": 0,
+        "key": "o"
+    },
+    {
+        "time": 0.06,
+        "action": 1,
+        "key": "o"
+    },
+    {
+        "time": 0.1,
+        "action": 0,
+        "key": "l"
+    },
+    {
+        "time": 0.12,
+        "action": 1,
+        "key": "l"
+    },
+    {
+        "time": 0.05,
+        "action": 0,
+        "key": "d"
+    },
+    {
+        "time": 0.11,
+        "action": 0,
+        "key": "u"
+    },
+    {
+        "time": 0.03,
+        "action": 1,
+        "key": "d"
+    },
+    {
+        "time": 0.1,
+        "action": 1,
+        "key": "u"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.15,
+        "action": 1,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.01,
+        "action": 0,
+        "key": "m"
+    },
+    {
+        "time": 0.16,
+        "action": 1,
+        "key": "m"
+    },
+    {
+        "time": 0.11,
+        "action": 0,
+        "key": "u"
+    },
+    {
+        "time": 0.15,
+        "action": 1,
+        "key": "u"
+    },
+    {
+        "time": 0.02,
+        "action": 0,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.14,
+        "action": 1,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.13,
+        "action": 0,
+        "key": "y"
+    },
+    {
+        "time": 0.11,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 0.04,
+        "action": 1,
+        "key": "y"
+    },
+    {
+        "time": 0.06,
+        "action": 0,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.09,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 0.05,
+        "action": 1,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.41,
+        "action": 0,
+        "key": "i"
+    },
+    {
+        "time": 0.11,
+        "action": 1,
+        "key": "i"
+    },
+    {
+        "time": 0.16,
+        "action": 0,
+        "key": "n"
+    },
+    {
+        "time": 0.1,
+        "action": 1,
+        "key": "n"
+    },
+    {
+        "time": 0.25,
+        "action": 0,
+        "key": "\u015f"
+    },
+    {
+        "time": 0.13,
+        "action": 1,
+        "key": "\u015f"
+    },
+    {
+        "time": 0.0,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 0.1,
+        "action": 0,
+        "key": "l"
+    },
+    {
+        "time": 0.05,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 0.03,
+        "action": 1,
+        "key": "l"
+    },
+    {
+        "time": 0.06,
+        "action": 0,
+        "key": "l"
+    },
+    {
+        "time": 0.11,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 0.01,
+        "action": 1,
+        "key": "l"
+    },
+    {
+        "time": 0.15,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "h"
+    },
+    {
+        "time": 0.1,
+        "action": 1,
+        "key": "h"
+    },
+    {
+        "time": 0.02,
+        "action": 0,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.16,
+        "action": 1,
+        "key": "Key.space"
+    },
+    {
+        "time": 0.01,
+        "action": 0,
+        "key": "o"
+    },
+    {
+        "time": 0.11,
+        "action": 1,
+        "key": "o"
+    },
+    {
+        "time": 0.09,
+        "action": 0,
+        "key": "l"
+    },
+    {
+        "time": 0.1,
+        "action": 1,
+        "key": "l"
+    },
+    {
+        "time": 0.1,
+        "action": 0,
+        "key": "m"
+    },
+    {
+        "time": 0.11,
+        "action": 1,
+        "key": "m"
+    },
+    {
+        "time": 0.1,
+        "action": 0,
+        "key": "u"
+    },
+    {
+        "time": 0.12,
+        "action": 0,
+        "key": "s"
+    },
+    {
+        "time": 0.02,
+        "action": 1,
+        "key": "u"
+    },
+    {
+        "time": 0.14,
+        "action": 1,
+        "key": "s"
+    },
+    {
+        "time": 0.12,
+        "action": 0,
+        "key": "t"
+    },
+    {
+        "time": 0.15,
+        "action": 1,
+        "key": "t"
+    },
+    {
+        "time": 0.77,
+        "action": 0,
+        "key": "."
+    },
+    {
+        "time": 0.13,
+        "action": 1,
+        "key": "."
+    },
+    {
+        "time": 0.82,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.49,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.02,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.03,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.02,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.06,
+        "action": 1,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.84,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.1,
+        "action": 1,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.06,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.09,
+        "action": 1,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.07,
+        "action": 0,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.12,
+        "action": 1,
+        "key": "Key.backspace"
+    },
+    {
+        "time": 0.2,
+        "action": 0,
+        "key": "\""
+    },
+    {
+        "time": 0.19,
+        "action": 1,
+        "key": "\""
+    },
+    {
+        "time": 0.7,
+        "action": 0,
+        "key": "Key.esc"
+    }
+]
